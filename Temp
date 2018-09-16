@@ -1,0 +1,528 @@
+/Users/shibshankarroy/PycharmProjects/Test/venv/bin/python /Users/shibshankarroy/PycharmProjects/Test/nltk.py
+/Users/shibshankarroy/PycharmProjects/Test/nltk.py:5: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 5 of the file /Users/shibshankarroy/PycharmProjects/Test/nltk.py. To get rid of this warning, pass the additional argument 'features="html.parser"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(pg)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Indian Express - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Indian_Express","wgTitle":"The Indian Express","wgCurRevisionId":855535782,"wgRevisionId":855535782,"wgArticleId":407239,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from May 2011","All articles needing additional references","Articles lacking reliable references from May 2011","All articles lacking reliable references","Articles with multiple maintenance issues","Pages using deprecated image syntax","All articles with failed verification","Articles with failed verification from May 2017","All articles with unsourced statements","Articles with unsourced statements from January 2008","Articles with unsourced statements from February 2018","Use dmy dates from May 2011","Publications established in 1931","1931 establishments in India","English-language newspapers published in India","Newspapers published in Kolkata","Newspapers published in Delhi","Newspapers published in Mumbai","Indian Express Limited","National newspapers published in India"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Indian_Express","wgRelevantArticleId":407239,"wgRequestId":"W5UAkgpAIDAAAFrZzJwAAACT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1954843","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/85/Indian-Expree.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Indian_Express"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Indian_Express&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Indian_Express&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Indian_Express"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Indian_Express rootpage-The_Indian_Express skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en"><i>The Indian Express</i></h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the bifurcated <a href="/wiki/South_India" title="South India">South Indian</a> edition, see <a href="/wiki/The_New_Indian_Express" title="The New Indian Express">The New Indian Express</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Indian_Express&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:The_Indian_Express" title="Talk:The Indian Express">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Indian_Express&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(May 2011)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>.<span class="hide-when-compact"> Please improve this  by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span>  <small><i>(May 2011)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org" style="font-style: italic">The Indian Express</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Indian-Expree.jpg" class="image"><img alt="Indian-Expree.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/8/85/Indian-Expree.jpg/225px-Indian-Expree.jpg" width="225" height="357" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/8/85/Indian-Expree.jpg 1.5x" data-file-width="250" data-file-height="397" /></a>=<div>The publication's 4 August 2009 front page</div></td></tr><tr><th scope="row">Type</th><td>
+Daily <a href="/wiki/Newspaper" title="Newspaper">newspaper</a></td></tr><tr><th scope="row">Format</th><td>
+<a href="/wiki/Broadsheet" title="Broadsheet">Broadsheet</a> (format)</td></tr><tr><th scope="row">Owner(s)</th><td>
+<a href="/wiki/Indian_Express_Group" class="mw-redirect" title="Indian Express Group">Indian Express Group</a></td></tr><tr><th scope="row">Publisher</th><td>
+Indian Express Group</td></tr><tr><th scope="row">Editor-in-chief</th><td class="agent">
+<a href="/wiki/Raj_Kamal_Jha" title="Raj Kamal Jha">Raj Kamal Jha</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2017)">not in citation given</span></a></i>&#93;</sup></td></tr><tr><th scope="row">Founded</th><td>
+1931<span class="noprint">&#59;&#32;87&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1931</span>)</span></td></tr><tr><th scope="row">Language</th><td>
+English</td></tr><tr><th scope="row">Headquarters</th><td class="label">
+B1/B, Express Building, Sector 10, <a href="/wiki/Noida" title="Noida">Noida</a>, <a href="/wiki/Uttar_Pradesh" title="Uttar Pradesh">Uttar Pradesh</a>, <a href="/wiki/India" title="India">India</a></td></tr><tr><th scope="row"><a href="/wiki/OCLC" title="OCLC">OCLC</a> number</th><td>
+<a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/70274541">70274541 </a></td></tr><tr><th scope="row">Website</th><td>
+<a rel="nofollow" class="external text" href="http://www.indianexpress.com/">www.indianexpress.com</a></td></tr></tbody></table>
+<p><i><b>The Indian Express</b></i> is an English-language Indian daily newspaper. It is published in Mumbai by <a href="/wiki/Indian_Express_Limited" title="Indian Express Limited">Indian Express Group</a>. In 1999, eight years after the group's founder <a href="/wiki/Ramnath_Goenka" title="Ramnath Goenka">Ramnath Goenka</a>'s death in 1991, the group was split between the family members. The southern editions took the name <i><a href="/wiki/The_New_Indian_Express" title="The New Indian Express">The New Indian Express</a></i>, while the northern editions, based in <a href="/wiki/Mumbai" title="Mumbai">Mumbai</a>, retained the original <i>Indian Express</i> name, with <i>"The"</i> prefixed to the title.
+</p><p><i>The Indian Express</i> is published at ten locations—<a href="/wiki/Delhi" title="Delhi">Delhi</a>, <a href="/wiki/Jaipur" title="Jaipur">Jaipur</a>, <a href="/wiki/Mumbai" title="Mumbai">Mumbai</a>, <a href="/wiki/Nagpur" title="Nagpur">Nagpur</a>, <a href="/wiki/Pune" title="Pune">Pune</a>, <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/Vadodara" title="Vadodara">Vadodara</a>, <a href="/wiki/Chandigarh" title="Chandigarh">Chandigarh</a>, <a href="/wiki/Lucknow" title="Lucknow">Lucknow</a> and <a href="/wiki/Ahmedabad" title="Ahmedabad">Ahmedabad</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_of_the_Indian_Express_Group"><span class="tocnumber">1</span> <span class="toctext">History of the Indian Express Group</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Expansion"><span class="tocnumber">2</span> <span class="toctext">Expansion</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Headquarters"><span class="tocnumber">3</span> <span class="toctext">Headquarters</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Awards"><span class="tocnumber">4</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History_of_the_Indian_Express_Group">History of the Indian Express Group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=1" title="Edit section: History of the Indian Express Group">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In 1931, the <i>Indian Express</i> was started by an <a href="/wiki/Ayurveda" title="Ayurveda">Ayurvedic</a> doctor, <a href="/wiki/P._Varadarajulu_Naidu" title="P. Varadarajulu Naidu">P. Varadarajulu Naidu</a>, at <a href="/wiki/Chennai" title="Chennai">Chennai</a>, being published by his "Tamil Nadu" <a href="/wiki/Publisher" class="mw-redirect" title="Publisher">press</a>. Soon under financial difficulties, he sold the newspaper to <a href="/wiki/S._Sadanand" title="S. Sadanand">Swaminathan Sadanand</a>, the founder of <i><a href="/wiki/The_Free_Press_Journal" title="The Free Press Journal">The Free Press Journal</a></i>, a national <a href="/wiki/News_agency" title="News agency">news agency</a>.</li></ul>
+<ul><li>In 1933 <i>The Indian Express</i> opened its second office in <a href="/wiki/Madurai" title="Madurai">Madurai</a>, launching the <a href="/wiki/Tamil_language" title="Tamil language">Tamil</a> edition, <i><a href="/wiki/Dina_Mani" class="mw-redirect" title="Dina Mani">Dinamani</a></i>.  Sadanand introduced several innovations and reduced the price of the newspaper. Faced with financial difficulties, he sold a part of his stake to Ramanath Goenka as <a href="/wiki/Convertible_debenture" class="mw-redirect" title="Convertible debenture">convertible debentures</a>.</li>
+<li>In 1935, when <i>The Free Press Journal</i> finally collapsed, and after a protracted court battle with Goenka, Sadanand lost ownership of <i>Indian Express</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Expansion">Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=2" title="Edit section: Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Later Goenka bought the remaining 26% of the company held by Sadanand. The newspaper then came under Goenka's sole control, taking the already anti-establishment tone of the paper to greater heights. Also at that time, it faced stiff competition from the well established <i><a href="/wiki/The_Hindu" title="The Hindu">The Hindu</a></i> and the <i>Mail</i>, as well as several other prominent newspapers.
+In the late 1930s the newspaper's circulation was no more than 2000.
+</p><p>In 1939 Goenka bought <i><a href="/wiki/Andhra_Prabha" title="Andhra Prabha">Andhra Prabha</a></i>, another prominent <a href="/wiki/Telugu_language" title="Telugu language">Telugu</a> daily newspaper. The name <a href="/wiki/Three_Musketeers" class="mw-redirect" title="Three Musketeers">Three Musketeers</a> was often used for the three dailies.
+In 1940 the whole premises was gutted by fire. <i><a href="/wiki/The_Hindu" title="The Hindu">The Hindu</a></i>, a rival newspaper, helped considerably in re-launching the paper, by getting it printed temporarily at one of its Swadesimithran’s press and later offering its recently vacated premises at 2, Mount Road, which became the landmark Express Estates<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2008)">citation needed</span></a></i>&#93;</sup>. This relocation also helped the Express obtain better high speed printing machines. Some claimed the Goenka had deliberately set fire to escape financial embarrassment<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2008)">citation needed</span></a></i>&#93;</sup>.
+</p><p>In later years Goenka started the <a href="/wiki/Mumbai" title="Mumbai">Mumbai</a> edition with the landmark <a href="/wiki/Express_Towers" title="Express Towers">Express Towers</a> as his office when he bought the <i>Morning Standard</i> in 1944. Two years later it became the Mumbai edition of <i>The Indian Express</i>. Later, editions were started in several cities; the <a href="/wiki/Madurai" title="Madurai">Madurai</a> edition in 1957, the <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a> edition in 1965, and the <a href="/wiki/Ahmedabad" title="Ahmedabad">Ahmedabad</a> edition in 1968. The <i><a href="/wiki/The_Financial_Express_(India)" title="The Financial Express (India)">Financial Express</a></i> was launched in 1961 at Mumbai, <a href="/wiki/Kannada_Prabha" title="Kannada Prabha">Kannada Prabha</a> (<a href="/wiki/Kannada_language" class="mw-redirect" title="Kannada language">Kannada</a> Daily) at <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a> in 1965 and a Bangalore edition of the Telugu Daily <i>Andhra Prabha</i>, and <a href="/wiki/Gujarati_language" title="Gujarati language">Gujarati</a> dailies Lok Satta and Jansatta, from Ahmedabad and Vadodara in 1952.
+</p><p>The <a href="/wiki/Delhi" title="Delhi">Delhi</a> edition started was when the Tej group's <i>Indian News Chronicle</i> was acquired in 1951, which in 1953 became the Delhi edition of <i>Indian Express</i>. In 1990 the group bought the Sterling group of magazines, along with it the <i>Gentleman</i> magazine.
+</p><p>After Ramanath Goenka’s death in 1991, two of the family members split the group into Indian Express Mumbai with all the North Indian editions, while the Southern editions were grouped as Express Madurai Ltd. with <a href="/wiki/Chennai" title="Chennai">Chennai</a> as headquarters.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Headquarters">Headquarters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=3" title="Edit section: Headquarters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Express Group has a Mumbai-headquartered division, which should not be confused with Express Publications <a href="/wiki/Madurai" title="Madurai">Madurai</a>, which has a <a href="/wiki/South_India" title="South India">South Indian</a> chain of newspapers, including <i><a href="/wiki/The_New_Indian_Express" title="The New Indian Express">The New Indian Express</a></i> a separate corporate entity from The Express Group.
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=4" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Ramnath_Goenka_Excellence_in_Journalism_Awards" title="Ramnath Goenka Excellence in Journalism Awards">Ramnath Goenka Excellence in Journalism Awards</a></li>
+<li>Ramnath Goenka India Press Photo Awards</li>
+<li><a href="/wiki/Star_Screen_Awards" class="mw-redirect" title="Star Screen Awards">Screen Awards</a></li>
+<li>FE Women in Business Awards</li>
+<li>Intelligent Enterprise Awards</li>
+<li>Security Strategist Awards</li>
+<li>Uptime Champion Awards</li>
+<li>Express TravelWorld Awards</li>
+<li>Pharma Excellence Awards</li>
+<li>Healthcare Excellence Awards</li></ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Mumbai_Taj.JPG" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mumbai_Taj.JPG/32px-Mumbai_Taj.JPG" width="32" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mumbai_Taj.JPG/48px-Mumbai_Taj.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mumbai_Taj.JPG/64px-Mumbai_Taj.JPG 2x" data-file-width="3072" data-file-height="2304" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Mumbai" title="Portal:Mumbai">Mumbai portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/28px-Newspaper_nicu_buculei_01.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/42px-Newspaper_nicu_buculei_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/56px-Newspaper_nicu_buculei_01.svg.png 2x" data-file-width="160" data-file-height="160" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Journalism" title="Portal:Journalism">Journalism portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Indian_Express_Group" class="mw-redirect" title="Indian Express Group">Indian Express Group</a></li>
+<li><a href="/wiki/Express_Avenue" title="Express Avenue">Express Avenue</a></li>
+<li><a href="/wiki/List_of_newspapers_in_India_by_circulation" title="List of newspapers in India by circulation">List of newspapers in India by circulation</a></li>
+<li><a href="/wiki/List_of_newspapers_in_the_world_by_circulation" class="mw-redirect" title="List of newspapers in the world by circulation">List of newspapers in the world by circulation</a></li>
+<li><i><a href="/wiki/The_New_Indian_Express" title="The New Indian Express">The New Indian Express</a></i></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.exchange4media.com/55984_indian-express-rejig-raj-kamal-jha-made-chief-editor-unni-rajen-shanker-made-editor.html">- Raj Kamal Jha made new chief editor</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140608161043/http://www.exchange4media.com/55984_indian-express-rejig-raj-kamal-jha-made-chief-editor-unni-rajen-shanker-made-editor.html">Archived</a> 8 June 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Kaminsky, Arnold. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=wWDnTWrz4O8C&amp;pg=PA340"><i>India Today- an encyclopedia of life in the republic</i></a>. p.&#160;340.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=India+Today-+an+encyclopedia+of+life+in+the+republic&amp;rft.pages=340&amp;rft.aulast=Kaminsky&amp;rft.aufirst=Arnold&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwWDnTWrz4O8C%26pg%3DPA340&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Indian+Express" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.indianexpress.com"><i>The Indian Express</i> website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Newspapers_of_India" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Newspapers_in_India" title="Template:Newspapers in India"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Newspapers_in_India" title="Template talk:Newspapers in India"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Newspapers_in_India&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Newspapers_of_India" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_newspapers_in_India" title="List of newspapers in India">Newspapers of India</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Assamese_language" title="Assamese language">Assamese</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Amar_Asom" title="Amar Asom">Amar Asom</a></i></li>
+<li><i><a href="/wiki/Aji_Assamese_Daily" title="Aji Assamese Daily">Aaji</a></i></li>
+<li><i><a href="/wiki/Asomiya_Khobor" title="Asomiya Khobor">Asomiya Khobor</a></i></li>
+<li><i><a href="/wiki/Asomiya_Pratidin" title="Asomiya Pratidin">Asomiya Pratidin</a></i></li>
+<li><i><a href="/wiki/Dainik_Agradoot" title="Dainik Agradoot">Dainik Agradoot</a></i></li>
+<li><i><a href="/wiki/Dainik_Asam" title="Dainik Asam">Dainik Asam</a></i></li>
+<li><i><a href="/wiki/Dainik_Gana_Adhikar" title="Dainik Gana Adhikar">Dainik Gana Adhikar</a></i></li>
+<li><i><a href="/wiki/Dainik_Janambhumi" title="Dainik Janambhumi">Dainik Janambhumi</a></i></li>
+<li><i><a href="/wiki/Janasadharan" title="Janasadharan">Janasadharan</a></i></li>
+<li><i><a href="/wiki/Niyomiya_Barta" title="Niyomiya Barta">Niyomiya Barta</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bengali_language" title="Bengali language">Bengali</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Aajkaal" title="Aajkaal">Aajkaal</a></i></li>
+<li><i><a href="/wiki/Anandabazar_Patrika" title="Anandabazar Patrika">Anandabazar Patrika</a></i></li>
+<li><i><a href="/wiki/Bartaman" title="Bartaman">Bartaman</a></i></li>
+<li><i><a href="/wiki/Daily_Desher_Katha" title="Daily Desher Katha">Daily Desher Katha</a></i></li>
+<li><i><a href="/wiki/Dainik_Nababarta_Prasanga" title="Dainik Nababarta Prasanga">Dainik Nababarta Prasanga</a></i></li>
+<li><i><a href="/wiki/Dainik_Prantajyoti" title="Dainik Prantajyoti">Dainik Prantajyoti</a></i></li>
+<li><i><a href="/wiki/Dainik_Sambad" title="Dainik Sambad">Dainik Sambad</a></i></li>
+<li><i><a href="/wiki/Dainik_Statesman" title="Dainik Statesman">Dainik Statesman</a></i></li>
+<li><i><a href="/wiki/Dainik_Jugasankha" title="Dainik Jugasankha">Dainik Jugasankha</a></i></li>
+<li><i><a href="/wiki/Ebela" title="Ebela">Ebela</a></i></li>
+<li><i><a href="/wiki/Ei_Samay_Sangbadpatra" title="Ei Samay Sangbadpatra">Ei Samay Sangbadpatra</a></i></li>
+<li><i><a href="/wiki/Ekdin" title="Ekdin">Ekdin</a></i></li>
+<li><i><a href="/wiki/Ganadabi" title="Ganadabi">Ganadabi</a></i></li>
+<li><i><a href="/wiki/Ganashakti" title="Ganashakti">Ganashakti</a></i></li>
+<li><i><a href="/wiki/Jhar" title="Jhar">Jhar</a></i></li>
+<li><i><a href="/wiki/Jago_Bangla" title="Jago Bangla">Jago Bangla</a></i></li>
+<li><i><a href="/wiki/Kalantar" title="Kalantar">Kalantar</a></i></li>
+<li><i><a href="/wiki/Kalom" title="Kalom">Kalom</a></i></li>
+<li><i><a href="/wiki/Manush_Patrika" title="Manush Patrika">Manush Patrika</a></i></li>
+<li><i><a href="/wiki/Sakalbela" title="Sakalbela">Sakalbela</a></i></li>
+<li><i><a href="/wiki/Sangbad_Lahari" title="Sangbad Lahari">Sangbad Lahari</a></i></li>
+<li><i><a href="/wiki/Sangbad_Pratidin" title="Sangbad Pratidin">Sangbad Pratidin</a></i></li>
+<li><i><a href="/wiki/Syandhan_Patrika" title="Syandhan Patrika">Syandhan Patrika</a></i></li>
+<li><i><a href="/wiki/Times_Bangla" title="Times Bangla">Times Bangla</a></i></li>
+<li><i><a href="/wiki/Tripura_Bani" title="Tripura Bani">Tripura Bani</a></i></li>
+<li><i><a href="/wiki/Uttarbanga_Sambad" title="Uttarbanga Sambad">Uttarbanga Sambad</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indian_English" title="Indian English">English</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Afternoon_Despatch_%26_Courier" title="The Afternoon Despatch &amp; Courier">The Afternoon Despatch &amp; Courier</a></i></li>
+<li><i><a href="/wiki/The_Asian_Age" title="The Asian Age">The Asian Age</a></i></li>
+<li><i><a href="/wiki/The_Assam_Tribune" title="The Assam Tribune">The Assam Tribune</a></i></li>
+<li><i><a href="/wiki/Bangalore_Mirror" title="Bangalore Mirror">Bangalore Mirror</a></i></li>
+<li><i><a href="/wiki/Business_Standard" title="Business Standard">Business Standard</a></i></li>
+<li><i><a href="/wiki/Central_Chronicle" title="Central Chronicle">Central Chronicle</a></i></li>
+<li><i><a href="/wiki/Daily_News_and_Analysis" title="Daily News and Analysis">Daily News and Analysis</a></i></li>
+<li><i><a href="/wiki/Daily_Excelsior" title="Daily Excelsior">Daily Excelsior</a></i></li>
+<li><i><a href="/wiki/Deccan_Chronicle" title="Deccan Chronicle">Deccan Chronicle</a></i></li>
+<li><i><a href="/wiki/Deccan_Herald" title="Deccan Herald">Deccan Herald</a></i></li>
+<li><i><a href="/wiki/The_Economic_Times" title="The Economic Times">The Economic Times</a></i></li>
+<li><i><a href="/wiki/Financial_Chronicle" title="Financial Chronicle">Financial Chronicle</a></i></li>
+<li><i><a href="/wiki/The_Financial_Express_(India)" title="The Financial Express (India)">The Financial Express</a></i></li>
+<li><i><a href="/wiki/The_Free_Press_Journal" title="The Free Press Journal">The Free Press Journal</a></i></li>
+<li><i><a href="/wiki/G_Plus" title="G Plus">G Plus</a></i></li>
+<li><i><a href="/wiki/Greater_Kashmir" title="Greater Kashmir">Greater Kashmir</a></i></li>
+<li><i><a href="/wiki/The_Hans_India" title="The Hans India">The Hans India</a></i></li>
+<li><i><a href="/wiki/The_Hindu" title="The Hindu">The Hindu</a></i></li>
+<li><i><a href="/wiki/Business_Line" title="Business Line">The Hindu Business Line</a></i></li>
+<li><i><a href="/wiki/Hindustan_Times" title="Hindustan Times">Hindustan Times</a></i></li>
+<li><i><a class="mw-selflink selflink">The Indian Express</a></i></li>
+<li><i><a href="/wiki/Metro_India" title="Metro India">Metro India</a></i></li>
+<li><i><a href="/wiki/Mid_Day" title="Mid Day">Mid Day</a></i></li>
+<li><i><a href="/wiki/The_Milli_Gazette" title="The Milli Gazette">The Milli Gazette</a></i></li>
+<li><i><a href="/wiki/Mint_(newspaper)" title="Mint (newspaper)">Mint</a></i></li>
+<li><i><a href="/wiki/Mumbai_Mirror" title="Mumbai Mirror">Mumbai Mirror</a></i></li>
+<li><i><a href="/wiki/Orissa_Post" title="Orissa Post">Orissa Post</a></i></li>
+<li><i><a href="/wiki/Telangana_Today" title="Telangana Today">Telangana Today</a></i></li>
+<li><i><a href="/wiki/The_North_East_Times" title="The North East Times">The North East Times</a></i></li>
+<li><i><a href="/wiki/The_New_Indian_Express" title="The New Indian Express">The New Indian Express</a></i></li>
+<li><i><a href="/wiki/The_Pioneer_(newspaper)" title="The Pioneer (newspaper)">The Pioneer</a></i></li>
+<li><i><a href="/wiki/Star_of_Mysore" title="Star of Mysore">Star of Mysore</a></i></li>
+<li><i><a href="/wiki/The_Sentinel_(Guwahati)" title="The Sentinel (Guwahati)">The Sentinel</a></i></li>
+<li><i><a href="/wiki/The_Sunday_Guardian" title="The Sunday Guardian">The Sunday Guardian</a></i></li>
+<li><i><a href="/wiki/The_Statesman_(India)" title="The Statesman (India)">The Statesman</a></i></li>
+<li><i><a href="/wiki/The_Telegraph_(Calcutta)" title="The Telegraph (Calcutta)">The Telegraph</a></i></li>
+<li><i><a href="/wiki/The_Times_of_India" title="The Times of India">The Times of India</a></i></li>
+<li><i><a href="/wiki/The_Tribune_(Chandigarh)" title="The Tribune (Chandigarh)"> The Tribune</a></i></li>
+<li><i><a href="/wiki/Kashmir_Reader" title="Kashmir Reader">Kashmir Reader</a></i></li>
+<li><i><a href="/wiki/Kashmir_Observer" title="Kashmir Observer">Kashmir Observer</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Media_in_Gujarati_language" title="Media in Gujarati language">Gujarati</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Bombay_Samachar" title="Bombay Samachar">Mumbai Samachar</a></i></li>
+<li><i><a href="/wiki/Divya_Bhaskar" title="Divya Bhaskar">Divya Bhaskar</a></i></li>
+<li><i><a href="/wiki/Gujarat_Samachar" title="Gujarat Samachar">Gujarat Samachar</a></i></li>
+<li><i><a href="/wiki/Gujarat_Today" title="Gujarat Today">Gujarat Today</a></i></li>
+<li><i><a href="/wiki/Jai_Hind_(newspaper)" title="Jai Hind (newspaper)">Jai Hind</a></i></li>
+<li><i><a href="/wiki/Jagat_Darpan" title="Jagat Darpan">Jagat Darpan</a></i></li>
+<li><i><a href="/wiki/Kutchmitra" title="Kutchmitra">Kutchmitra</a></i></li>
+<li><i><a href="/wiki/Mid_Day" title="Mid Day">Mid Day</a></i></li>
+<li><i><a href="/wiki/NavGujarat_Samay" title="NavGujarat Samay">NavGujarat Samay</a></i></li>
+<li><i><a href="/wiki/Nobat" title="Nobat">Nobat</a></i></li>
+<li><i><a href="/wiki/Phulchhab" title="Phulchhab">Phulchhab</a></i></li>
+<li><i><a href="/wiki/Sambhaav" title="Sambhaav">Sambhaav</a></i></li>
+<li><i><a href="/wiki/Sandesh_(Indian_newspaper)" title="Sandesh (Indian newspaper)">Sandesh</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hindi" title="Hindi">Hindi</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Aj_(newspaper)" title="Aj (newspaper)">Aj</a></i></li>
+<li><i><a href="/wiki/Amar_Ujala" title="Amar Ujala">Amar Ujala</a></i></li>
+<li><i><a href="/wiki/Business_Standard" title="Business Standard">Business Standard Hindi</a></i></li>
+<li><i><a href="/wiki/Dainik_Bhaskar" title="Dainik Bhaskar">Dainik Bhaskar</a></i></li>
+<li><i><a href="/wiki/Dainik_Jagran" title="Dainik Jagran">Dainik Jagran</a></i></li>
+<li><i><a href="/wiki/Dainik_Navajyoti" title="Dainik Navajyoti">Dainik Navajyoti</a></i></li>
+<li><i><a href="/wiki/Dainik_Tribune" title="Dainik Tribune">Dainik Tribune</a></i></li>
+<li><i><a href="/wiki/Deshbandhu_(newspaper)" title="Deshbandhu (newspaper)">Deshbandhu</a></i></li>
+<li><i><a href="/wiki/Divya_Himachal" title="Divya Himachal">Divya Himachal</a></i></li>
+<li><i><a href="/wiki/The_Economic_Times" title="The Economic Times">Economic Times Hindi</a></i></li>
+<li><i><a href="/wiki/Hari_Bhoomi" title="Hari Bhoomi">Hari Bhoomi</a></i></li>
+<li><i><a href="/wiki/Herald_Young_Leader" title="Herald Young Leader">Herald Young Leader</a></i></li>
+<li><i><a href="/wiki/Hindustan_(newspaper)" title="Hindustan (newspaper)">Hindustan</a></i></li>
+<li><i><a href="/wiki/Jansatta" class="mw-redirect" title="Jansatta">Jansatta</a></i></li>
+<li><i><a href="/wiki/Nava_Bharat" title="Nava Bharat">Nava Bharat</a></i></li>
+<li><i><a href="/wiki/Navbharat_Times" title="Navbharat Times">Navbharat Times</a></i></li>
+<li><i><a href="/wiki/Prabhat_Khabar" title="Prabhat Khabar">Prabhat Khabar</a></i></li>
+<li><i><a href="/wiki/Punjab_Kesari" title="Punjab Kesari">Punjab Kesari</a></i></li>
+<li><i><a href="/wiki/Rajasthan_Patrika" title="Rajasthan Patrika">Rajasthan Patrika</a></i></li>
+<li><i><a href="/wiki/Sanjeevni_Today" title="Sanjeevni Today">Sanjeevni Today</a></i></li>
+<li><i><a href="/wiki/Tehelka" title="Tehelka"> Tehelka Hindi</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kannada" title="Kannada">Kannada</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Hosa_Digantha" title="Hosa Digantha">Hosa Digantha</a></i></li>
+<li><i><a href="/wiki/Hai_Bangalore" title="Hai Bangalore">Hai Bangalore</a></i></li>
+<li><i><a href="/wiki/Janathavani" title="Janathavani">Janathavani</a></i></li>
+<li><i><a href="/wiki/Kannada_Prabha" title="Kannada Prabha">Kannada Prabha</a></i></li>
+<li><i><a href="/wiki/Karavali_Ale" title="Karavali Ale">Karavali Ale</a></i></li>
+<li><i><a href="/wiki/Karavali_Munjavu" title="Karavali Munjavu">Karavali Munjavu</a></i></li>
+<li><i><a href="/wiki/Lankesh_Patrike" title="Lankesh Patrike">Lankesh Patrike</a></i></li>
+<li><i><a href="/wiki/Mangaluru_Samachara" title="Mangaluru Samachara">Mangaluru Samachara</a></i></li>
+<li><i><a href="/wiki/Mysooru_Mithra" title="Mysooru Mithra">Mysooru Mithra</a></i></li>
+<li><i><a href="/wiki/Prajavani" title="Prajavani">Prajavani</a></i></li>
+<li><i><a href="/wiki/Samyukta_Karnataka" title="Samyukta Karnataka">Samyukta Karnataka</a></i></li>
+<li><i><a href="/wiki/Sanjevani" title="Sanjevani">Sanjevani</a></i></li>
+<li><i><a href="/wiki/Suddi_Now" title="Suddi Now">Suddi Now</a></i></li>
+<li><i><a href="/wiki/Suddi_Sangaati" title="Suddi Sangaati">Suddi Sangaati</a></i></li>
+<li><i><a href="/wiki/Udayavani" title="Udayavani">Udayavani</a></i></li>
+<li><i><a href="/wiki/Usha_Kirana" title="Usha Kirana">Usha Kirana</a></i></li>
+<li><i><a href="/wiki/Varthabharathi" title="Varthabharathi">Varthabharathi</a></i></li>
+<li><i><a href="/wiki/Vijaya_Karnataka" title="Vijaya Karnataka">Vijaya Karnataka</a></i></li>
+<li><i><a href="/wiki/Vijayavani" title="Vijayavani">Vijayavani</a></i></li>
+<li><i><a href="/wiki/Vishwavani_News" title="Vishwavani News">Vishwavani News</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Konkani_language" title="Konkani language">Konkani</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Sunaparant" title="Sunaparant">Sunaparant</a></i></li>
+<li><a href="/wiki/Gomantak_Times" title="Gomantak Times">Gomantak Times</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Malayalam" title="Malayalam">Malayalam</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Aksharanadam" title="Aksharanadam">Aksharanadam</a></i></li>
+<li><i><a href="/wiki/Chandrika_(newspaper)" title="Chandrika (newspaper)">Chandrika</a></i></li>
+<li><i><a href="/wiki/Deepika_(newspaper)" title="Deepika (newspaper)">Deepika</a></i></li>
+<li><i><a href="/wiki/Deshabhimani" title="Deshabhimani">Deshabhimani</a></i></li>
+<li><i><a href="/wiki/General_(newspaper)" title="General (newspaper)">General</a></i></li>
+<li><i><a href="/wiki/Janayugom" title="Janayugom">Janayugom</a></i></li>
+<li><i><a href="/wiki/Janmabhumi" title="Janmabhumi">Janmabhumi</a></i></li>
+<li><i><a href="/wiki/Kerala_Kaumudi" title="Kerala Kaumudi">Kerala Kaumudi</a></i></li>
+<li><i><a href="/wiki/Madhyamam_Daily" title="Madhyamam Daily">Madhyamam</a></i></li>
+<li><i><a href="/wiki/Malayala_Manorama" title="Malayala Manorama">Malayala Manorama</a></i></li>
+<li><i><a href="/wiki/Mangalam_Publications" title="Mangalam Publications">Mangalam</a></i></li>
+<li><i><a href="/wiki/Mathrubhumi" title="Mathrubhumi">Mathrubhumi</a></i></li>
+<li><i><a href="/wiki/Metro_Vaartha" title="Metro Vaartha">Metro Vaartha</a></i></li>
+<li><i><a href="/wiki/Siraj_Daily" title="Siraj Daily">Siraj Daily</a></i></li>
+<li><i><a href="/wiki/Suprabhaatham" title="Suprabhaatham">Suprabhaatham</a></i></li>
+<li><i><a href="/wiki/Thejas" title="Thejas">Thejas</a></i></li>
+<li><i><a href="/wiki/Varthamanam" title="Varthamanam">Varthamanam</a></i></li>
+<li><i><a href="/wiki/Veekshanam" title="Veekshanam">Veekshanam</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Marathi_language" title="Marathi language">Marathi</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Deshdoot" title="Deshdoot">Deshdoot</a></i></li>
+<li><i><a href="/wiki/Ekmat" title="Ekmat">Ekmat</a></i></li>
+<li><i><a href="/wiki/Kesari_(newspaper)" title="Kesari (newspaper)">Kesari</a></i></li>
+<li><i><a href="/wiki/Lokmat" title="Lokmat">Lokmat</a></i></li>
+<li><i><a href="/wiki/Loksatta" title="Loksatta">Loksatta</a></i></li>
+<li><i><a href="/wiki/Maharashtra_Times" title="Maharashtra Times">Maharashtra Times</a></i></li>
+<li><i><a href="/wiki/Nava_Kaal" title="Nava Kaal">Nava Kaal</a></i></li>
+<li><i><a href="/wiki/Navshakti" title="Navshakti">Navshakti</a></i></li>
+<li><i><a href="/wiki/Prahaar_(newspaper)" title="Prahaar (newspaper)">Prahaar</a></i></li>
+<li><i><a href="/wiki/Pudhari" title="Pudhari">Pudhari</a></i></li>
+<li><i><a href="/wiki/Sakal" title="Sakal">Sakal</a></i></li>
+<li><i><a href="/wiki/Saamana" title="Saamana">Saamana</a></i></li>
+<li><i><a href="/wiki/Sanchar" title="Sanchar">Sanchar</a></i></li>
+<li><i><a href="/wiki/Tarun_Bharat" title="Tarun Bharat">Tarun Bharat</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Odia_language" title="Odia language">Odia</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Samaya" title="The Samaya">The Samaya</a></i></li>
+<li><i><a href="/wiki/The_Samaja" title="The Samaja">The Samaja</a></i></li>
+<li><i><a href="/wiki/Sambad" title="Sambad">Sambad</a></i></li>
+<li><i><a href="/wiki/Dharitri_(newspaper)" title="Dharitri (newspaper)">Dharitri</a></i></li>
+<li><i><a href="/wiki/Pragativadi" title="Pragativadi">Pragativadi</a></i></li>
+<li><i><a href="/w/index.php?title=Prameya&amp;action=edit&amp;redlink=1" class="new" title="Prameya (page does not exist)">Prameya</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Punjabi_language" title="Punjabi language">Punjabi</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ajit_(newspaper)" title="Ajit (newspaper)">Ajit</a></i></li>
+<li><i><a href="/wiki/Punjabi_Tribune" title="Punjabi Tribune">Punjabi Tribune</a></i></li>
+<li><i><a href="/wiki/Jag_Bani" title="Jag Bani">Jag Bani</a></i></li>
+<li><i><a href="/wiki/Rozana_Spokesman" title="Rozana Spokesman">Rozana Spokesman</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Sudharma" title="Sudharma">Sudharma</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tamil_language" title="Tamil language">Tamil</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Dina_Thanthi" title="Dina Thanthi">Daily Thanthi</a></i></li>
+<li><i><a href="/wiki/Dinakaran" title="Dinakaran">Dinakaran</a></i></li>
+<li><i><a href="/wiki/Dinamalar" title="Dinamalar">Dinamalar</a></i></li>
+<li><i><a href="/wiki/Dinamani" title="Dinamani">Dinamani</a></i></li>
+<li><i><a href="/wiki/Maalai_Malar" title="Maalai Malar">Maalai Malar</a></i></li>
+<li><i><a href="/wiki/Malai_Murasu" title="Malai Murasu">Maalai Murasu</a></i></li>
+<li><i><a href="/wiki/Tamil_Murasu" title="Tamil Murasu">Tamil Murasu</a></i></li>
+<li><i><a href="/wiki/Theekkathir" title="Theekkathir">Theekkathir</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Telugu_language" title="Telugu language">Telugu</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Andhra_Bhoomi" title="Andhra Bhoomi">Andhra Bhoomi</a></i></li>
+<li><i><a href="/wiki/Andhra_Prabha" title="Andhra Prabha">Andhra Prabha</a></i></li>
+<li><i><a href="/wiki/Andhra_Jyothy" title="Andhra Jyothy">Andhra Jyothy</a></i></li>
+<li><i><a href="/wiki/Eenadu" title="Eenadu">Eenadu</a></i></li>
+<li><i><a href="/wiki/Janam_Sakshi" title="Janam Sakshi">Janam Sakshi</a></i></li>
+<li><i><a href="/wiki/Mana_Telangana" title="Mana Telangana">Mana Telangana</a></i></li>
+<li><i><a href="/wiki/Namasthe_Telangana" title="Namasthe Telangana">Namasthe Telangana</a></i></li>
+<li><i><a href="/wiki/Nava_Telangana" title="Nava Telangana">Nava Telangana</a></i></li>
+<li><i><a href="/wiki/Prajasakti" title="Prajasakti">Prajasakti</a></i></li>
+<li><i><a href="/wiki/Sakshi_(media_group)" title="Sakshi (media group)">Sakshi</a></i></li>
+<li><i><a href="/wiki/Suryaa" title="Suryaa">Suryaa</a></i></li>
+<li><i><a href="/wiki/Vaartha" title="Vaartha">Vaartha</a></i></li>
+<li><i><a href="/wiki/Visalaandhra" title="Visalaandhra">Visalaandhra</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Urdu" title="Urdu">Urdu</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Taasir" title="Taasir">Taasir</a></i></li>
+<li><i><a href="/wiki/Avadhnama" title="Avadhnama">Avadhnama</a></i></li>
+<li><i><a href="/wiki/Indian_Etemaad" title="Indian Etemaad">Indian Etemaad</a></i></li>
+<li><i><a href="/wiki/The_Munsif_Daily" title="The Munsif Daily">The Munsif Daily</a></i></li>
+<li><i><a href="/wiki/The_Siasat_Daily" title="The Siasat Daily">The Siasat Daily</a></i></li>
+<li><i><a href="/wiki/Viqar-e-Deccan" title="Viqar-e-Deccan">Viqar-e-Deccan</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_newspapers_in_India" title="List of newspapers in India">Full list</a></li>
+<li><a href="/wiki/List_of_newspapers_in_India_by_circulation" title="List of newspapers in India by circulation">Newspapers by circulation</a></li>
+<li><a href="/wiki/List_of_newspapers_in_India_by_readership" title="List of newspapers in India by readership">Newspapers by readership</a></li>
+<li><a href="/wiki/Registrar_of_Newspapers_for_India" title="Registrar of Newspapers for India">Registrar</a></li>
+<li><a href="/wiki/Media_of_India" title="Media of India">Media of India</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="Emblem-money.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/21px-Emblem-money.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span><a href="/wiki/Portal:Economics" class="mw-redirect" title="Portal:Economics">Economics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Newspaper_nicu_buculei_01.svg" class="image"><img alt="Newspaper nicu buculei 01.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/21px-Newspaper_nicu_buculei_01.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/32px-Newspaper_nicu_buculei_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/42px-Newspaper_nicu_buculei_01.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><a href="/wiki/Portal:Journalism" title="Portal:Journalism">Journalism portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="A coloured voting box.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/21px-A_coloured_voting_box.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li></ul></div>
+<p class="mw-empty-elt">
+</p>
+<!--
+NewPP limit report
+Parsed by mw1266
+Cached time: 20180909110320
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.344 seconds
+Real time usage: 0.483 seconds
+Preprocessor visited node count: 1895/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73243/2097152 bytes
+Template argument size: 9044/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1668/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 3.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  361.108      1 -total
+ 27.40%   98.959      1 Template:Infobox_newspaper
+ 25.15%   90.823      1 Template:Infobox
+ 21.13%   76.294      3 Template:Ambox
+ 17.34%   62.627      1 Template:Reflist
+ 17.27%   62.377      1 Template:Multiple_issues
+ 12.64%   45.633      4 Template:Fix
+ 12.05%   43.518      1 Template:Cite_book
+  8.29%   29.921      1 Template:For
+  7.59%   27.423      1 Template:Refimprove
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:407239-0!canonical and timestamp 20180909110319 and revision id 855535782
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Indian_Express&amp;oldid=855535782">https://en.wikipedia.org/w/index.php?title=The_Indian_Express&amp;oldid=855535782</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Publications_established_in_1931" title="Category:Publications established in 1931">Publications established in 1931</a></li><li><a href="/wiki/Category:1931_establishments_in_India" title="Category:1931 establishments in India">1931 establishments in India</a></li><li><a href="/wiki/Category:English-language_newspapers_published_in_India" title="Category:English-language newspapers published in India">English-language newspapers published in India</a></li><li><a href="/wiki/Category:Newspapers_published_in_Kolkata" title="Category:Newspapers published in Kolkata">Newspapers published in Kolkata</a></li><li><a href="/wiki/Category:Newspapers_published_in_Delhi" title="Category:Newspapers published in Delhi">Newspapers published in Delhi</a></li><li><a href="/wiki/Category:Newspapers_published_in_Mumbai" title="Category:Newspapers published in Mumbai">Newspapers published in Mumbai</a></li><li><a href="/wiki/Category:Indian_Express_Limited" title="Category:Indian Express Limited">Indian Express Limited</a></li><li><a href="/wiki/Category:National_newspapers_published_in_India" title="Category:National newspapers published in India">National newspapers published in India</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2011" title="Category:Articles needing additional references from May 2011">Articles needing additional references from May 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_May_2011" title="Category:Articles lacking reliable references from May 2011">Articles lacking reliable references from May 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_May_2017" title="Category:Articles with failed verification from May 2017">Articles with failed verification from May 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2008" title="Category:Articles with unsourced statements from January 2008">Articles with unsourced statements from January 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2018" title="Category:Articles with unsourced statements from February 2018">Articles with unsourced statements from February 2018</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Indian+Express" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Indian+Express" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Indian_Express" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:The_Indian_Express" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/The_Indian_Express">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=The_Indian_Express&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Indian_Express&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Indian_Express" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Indian_Express" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Indian_Express&amp;oldid=855535782" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Indian_Express&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1954843" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Indian_Express&amp;id=855535782" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Indian+Express">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Indian+Express&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_Indian_Express&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%83%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3_%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A%D8%A9_(%D8%B5%D8%AD%D9%8A%D9%81%D8%A9)" title="اكسبريس الهندية (صحيفة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A6%BF_%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8" title="দি ইন্ডিয়ান এক্সপ্রেস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8" title="द इंडियन एक्सप्रेस – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8" title="द इंडियन एक्सप्रेस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%87%E0%B2%82%E0%B2%A1%E0%B2%BF%E0%B2%AF%E0%B2%A8%E0%B3%8D%E2%80%8C_%E0%B2%8E%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D%E2%80%8C%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B3%86%E0%B2%B8%E0%B3%8D%E2%80%8C" title="ಇಂಡಿಯನ್‌ ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8" title="इंडियन एक्सप्रेस – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A6%E0%A8%BE_%E0%A8%87%E0%A9%B0%E0%A8%A1%E0%A9%80%E0%A8%85%E0%A8%A8_%E0%A8%90%E0%A8%95%E0%A8%B8%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A9%88%E0%A8%B8" title="ਦਾ ਇੰਡੀਅਨ ਐਕਸਪ੍ਰੈਸ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%86%DA%88%DB%8C%D9%86_%D8%A7%DB%8C%DA%A9%D8%B3%D9%BE%D8%B1%DB%8C%D8%B3" title="انڈین ایکسپریس – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%A9%E0%AF%8D_%E0%AE%8E%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AF%81" title="இந்தியன் எக்சுபிரசு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%87%E0%B0%82%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%A8%E0%B1%8D_%E0%B0%8E%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B1%8D%E2%80%8C%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%86%E0%B0%B8%E0%B1%8D" title="ఇండియన్ ఎక్స్‌ప్రెస్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/The_Indian_Express" title="The Indian Express – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E5%BF%AB%E5%A0%B1" title="印度快報 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1954843#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 August 2018, at 01:16<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Indian_Express&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.483","ppvisitednodes":{"value":1895,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73243,"limit":2097152},"templateargumentsize":{"value":9044,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1668,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  361.108      1 -total"," 27.40%   98.959      1 Template:Infobox_newspaper"," 25.15%   90.823      1 Template:Infobox"," 21.13%   76.294      3 Template:Ambox"," 17.34%   62.627      1 Template:Reflist"," 17.27%   62.377      1 Template:Multiple_issues"," 12.64%   45.633      4 Template:Fix"," 12.05%   43.518      1 Template:Cite_book","  8.29%   29.921      1 Template:For","  7.59%   27.423      1 Template:Refimprove"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":4048572,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20180909110320","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1327"});});</script>
+	</body>
+</html>
+
+/Users/shibshankarroy/PycharmProjects/Test/nltk.py:10: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 10 of the file /Users/shibshankarroy/PycharmProjects/Test/nltk.py. To get rid of this warning, pass the additional argument 'features="html.parser"' to the BeautifulSoup constructor.
+
+  soup2= BeautifulSoup(text)
+helol
+
+The Indian Express - Wikipedia
+hi
+
+Process finished with exit code 0
