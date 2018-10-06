@@ -1,5 +1,19 @@
-import gensim
-gensim.download()
+import matplotlib
+matplotlib.use('TkAgg')
+matplotlib.get_backend()
+matplotlib.get_configdir
+import matplotlib.pyplot as plt
+
+plt.plot([1,2,3],[5,6,7])
+plt._show()
+
+
+
+
+
+
+#import gensim
+#gensim.download()
 
 
 #import nltk
